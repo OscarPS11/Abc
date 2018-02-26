@@ -1,4 +1,5 @@
 
 public class Primera {
-char a;//jejee
+char a;
+char oreo;
 }
